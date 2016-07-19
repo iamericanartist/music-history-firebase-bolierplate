@@ -1,5 +1,12 @@
 # music history w/gulp/browserify/sass/firebase3
 
+## Check out the different branches!
+
+### REST API / FIREBASE SDK are both available
+
+Each version has the other commented out for comparison, but they each work as is.
+
+***
 To run:
 + clone this repo
 + cd into it
