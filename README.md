@@ -1,4 +1,4 @@
-# music history w/gulp/browserify/sass/firebase3
+# Music History w/Gulp/Browserify/Sass/Firebase3
 
 ## Check out the different branches!
 
